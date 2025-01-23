@@ -1,0 +1,37 @@
+.root {
+    -fx-background-color: #f4f4f4;
+}
+
+.label {
+    -fx-text-fill: #333;
+}
+
+#titleLabel {
+    -fx-text-fill: #333;
+    -fx-font-size: 28px;
+    -fx-font-weight: bold;
+}
+
+#dateLabel, #descriptionLabel {
+    -fx-text-fill: #666;
+    -fx-font-size: 18px;
+}
+
+.button {
+    -fx-font-size: 14px;
+    -fx-background-color: #d9534f;
+    -fx-text-fill: white;
+    -fx-cursor: hand;
+}
+
+.button:hover {
+    -fx-background-color: #c9302c;
+}
+
+.scroll-pane {
+    -fx-background-color: transparent;
+}
+
+.scroll-pane .viewport {
+    -fx-background-color: transparent;
+}
