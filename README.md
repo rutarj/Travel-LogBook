@@ -1,7 +1,6 @@
 
-**
-Travel LogBook 
-**
+Travel LogBook
+
 TraveLogBook is a dynamic, interactive travel journal that helps users document their adventures, preserve memories, and manage their travel experiences all in one place. With this application, users can easily capture personal travel stories, track key moments, and update their journey logs in a seamless interface. The app is designed to be intuitive, offering simple navigation while storing data efficiently via local files.
 
 Check out a live demo of the application on YouTube to see how it works in real-time.
